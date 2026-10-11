@@ -1,3 +1,4 @@
 public class Student {
-    String name;
+	String name;
+	String eMail;
 }
